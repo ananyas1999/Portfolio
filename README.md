@@ -1,5 +1,5 @@
 # Ananya Srinath Achar  
-![Ananya's Photo](https://via.placeholder.com/150)  
+<img src="https://via.placeholder.com/150" alt="Ananya's Photo" width="150" height="150" style="border-radius: 50%;"/>  
 **Data Analyst | Business Intelligence | Data Science Enthusiast**
 
 Welcome to my data analysis portfolio! I'm a passionate **Data Analyst** with expertise in **Business Intelligence** and **Data Science**. This is where you can explore my professional experience, academic projects, and skills.  
