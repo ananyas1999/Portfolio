@@ -1,19 +1,21 @@
 # Ananya Srinath Achar  
+![Ananya's Photo](https://via.placeholder.com/150)  
 **Data Analyst | Business Intelligence | Data Science Enthusiast**
 
-Welcome to my data analysis portfolio!  
-Here you'll find details about my professional experience, academic projects, skills, and certifications.  
+Welcome to my data analysis portfolio! I'm a passionate **Data Analyst** with expertise in **Business Intelligence** and **Data Science**. This is where you can explore my professional experience, academic projects, and skills.  
 
 📍 **Location**: Dallas, Texas (Open to Relocation)  
 📧 **Email**: [ananya.achar@utdallas.edu](mailto:ananya.achar@utdallas.edu)  
 🔗 **LinkedIn**: [linkedin.com/in/ananyaachar](https://www.linkedin.com/in/ananyaachar/)  
-🔗 **GitHub**: [github.com/ananyas1999](https://github.com/ananyas1999)
+🔗 **GitHub**: [github.com/ananyas1999](https://github.com/ananyas1999)  
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Data Analyst** with a background in **Business Intelligence** and **Data Science**. I am passionate about uncovering data-driven insights that solve business challenges. With experience in tools like **Python**, **SQL**, **Power BI**, and **Tableau**, I thrive in environments that require analytical thinking and technical problem solving. Currently pursuing a **Master’s in Information Technology and Management** at the **University of Texas at Dallas**, I aim to further strengthen my expertise in data analysis and AI.
+I am currently pursuing a **Master's in Information Technology and Management** at the **University of Texas at Dallas**, where I am focusing on **Data Analytics**, **Business Intelligence**, and **Machine Learning**. I aim to combine my technical skills with business acumen to derive actionable insights from data and help organizations make informed decisions.
+
+I have hands-on experience working with **Power BI**, **Tableau**, **SQL**, **Python**, and **AWS**. I am always eager to explore new technologies and methodologies to solve real-world problems with data.
 
 ---
 
@@ -22,55 +24,78 @@ I'm a **Data Analyst** with a background in **Business Intelligence** and **Data
 **Master of Science in Information Technology and Management** (STEM)  
 *University of Texas at Dallas*  
 _Aug 2023 - May 2025_  
-_**Relevant Coursework**: Big Data, Data Warehousing, AWS, Data Analytics_
+**Relevant Coursework**: Big Data, Data Warehousing, AWS, Data Analytics
 
 **Bachelor of Engineering in Electronics and Communication Engineering**  
 *JSS Academy of Technical Education*  
 _Aug 2017 - Jun 2021_  
-_**Relevant Coursework**: C++, Python, Data Structures, Database Foundations_
+**Relevant Coursework**: C++, Python, Data Structures, Database Foundations
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages**: Python (Pandas, NumPy), R, SQL, C++, TensorFlow, PyTorch
+### **Programming & Tools**
+- **Languages**: Python (Pandas, NumPy), R, SQL, C++, TensorFlow, PyTorch  
 - **Tools**: Tableau, Power BI, Looker Studio, Excel (Advanced), Alteryx, DAX, AWS, Azure, Snowflake, BigQuery, SQL Server, Informatica
-- **Data Analysis**: Regression, Time Series, A/B Testing, Predictive Analytics, Multivariate Analysis, Hypothesis Testing
+
+### **Data Analysis & Statistics**
+- **Techniques**: Regression, Time Series, A/B Testing, Predictive Analytics, Multivariate Analysis, Hypothesis Testing  
+- **Certifications**:  
+    - **Microsoft Azure Data Fundamentals DP900**  
+    - **Tableau Desktop Specialist**  
+    - **IBM Python for Data Science**  
+    - **Google Data Analytics**  
+    - **Power BI Masterclass and SQL for BI**  
+    - **UiPath RPA Awareness Training**
 
 ---
 
 ## 💼 Professional Experience
 
-### **Data Analyst** | *Cognizant, India*  
+### **Data Analyst | Cognizant, India**  
 *Sep 2021 - Jul 2023*  
-- Built executive dashboards with **Power BI** and **Tableau**, increasing reporting efficiency by 20%.
-- Automated the daily refresh of **72 BI reports** with **Power BI**, improving real-time data accuracy and cutting server load by 50%.
-- Developed a **Python-based RPA Bot** integrated with **Power BI** and **Azure**, enhancing decision-making speed by 30%.
+- Designed **executive dashboards** using **Power BI** and **Tableau**, optimizing data storage and reporting workflows, increasing productivity by 20%.
+- Developed a **Python-based RPA bot** integrated with **Power BI** and **Azure**, automating data workflows and reducing decision-making time by 30%.
+- Managed **72 Office BI reports**, automating daily refreshes and cutting server load by 50%.
 
-### **Intern** | *Cognizant, India*  
+### **Intern | Cognizant, India**  
 *Jul 2021 - Sep 2021*  
-- Applied **SQL** and **Alteryx** to analyze user engagement, improving platform interaction by 30%.
-- Leveraged **Power BI** and **Python** to optimize reporting accuracy, leading to a 7% reduction in customer churn.
+- Used **SQL** and **Alteryx** to analyze user engagement, improving platform interaction by 30%.
+- Applied **Power BI** and **Python** for visualizations, resulting in a 7% reduction in customer drop-off rates.
 
-### **Intern** | *Unique Tech Designs, India*  
+### **Intern | Unique Tech Designs, India**  
 *Aug 2020 - Sep 2020*  
-- Built data models using **DAX** to optimize reporting efficiency, improving decision-making speed by 25%.
+- Built **DAX** data models to enhance reporting efficiency, improving decision-making speed by 25%.
 
 ---
 
 ## 📚 Projects
 
-### **Texas County-Wise COVID Data Analysis**  
-**Tools**: Python, R, Tableau  
-- Analyzed **1.96 million COVID-19 records**, exploring the impact of vaccination rates and population density on health outcomes.
+### **1. Texas County-Wise COVID Data Analysis**  
+**Tools**: Python (Pandas, Seaborn), R, Tableau  
+- **Project Description**: Analyzed **1.96 million COVID-19 records** to uncover insights on population dynamics, vaccination rates, and healthcare metrics.
+- **Impact**: Provided actionable insights for policymakers on the correlation between population density and COVID-19 outcomes.
 
-### **Expense Tracker with Power BI**  
-**Tools**: Power BI, Azure, Snowflake  
-- Designed a **financial dashboard** integrated with **Azure**, enabling real-time financial monitoring and a 12% reduction in expenses.
+### **2. Expense Tracker with Power BI**  
+**Tools**: Power BI, Snowflake, Azure  
+- **Project Description**: Developed a **real-time financial tracking dashboard** integrated with **Azure**, enabling business managers to monitor and control expenses efficiently.
+- **Impact**: Reduced operational expenses by 12% by optimizing financial workflows.
 
-### **COVID Isolation Detector with OpenCV**  
+### **3. COVID Isolation Detector with OpenCV**  
 **Tools**: Python (OpenCV, Scikit-Learn)  
-- Developed a **real-time isolation detection system** that reduces **COVID-19 transmission** by 64%.
+- **Project Description**: Created a **real-time isolation detection system** using computer vision, capable of detecting movement and sending emergency alerts when necessary.
+- **Impact**: Decreased **COVID-19 transmission risk** by 64% in monitored areas.
+
+### **4. Predictive Maintenance System for Manufacturing Equipment**  
+**Tools**: Python (Scikit-Learn), SQL, Tableau  
+- **Project Description**: Developed a predictive maintenance system using historical equipment data to predict machine failures.
+- **Impact**: Reduced machine downtime by 40% and improved operational efficiency.
+
+### **5. Automated Employee Severance Model**  
+**Tools**: PostgreSQL, Python (Pandas, SQLAlchemy)  
+- **Project Description**: Designed and implemented a severance model that improved the efficiency of employee data extraction and processing.
+- **Impact**: Increased pipeline efficiency by 20%, handling over 50 million employee records.
 
 ---
 
@@ -82,19 +107,18 @@ _**Relevant Coursework**: C++, Python, Data Structures, Database Foundations_
 
 ## 🌐 Let's Connect!
 
-Feel free to reach out if you want to collaborate, learn more about data analysis, or just have a conversation about tech and data.
+I'm always open to discussing data science, analytics, and technology. Feel free to reach out!
 
 [LinkedIn](https://www.linkedin.com/in/ananyaachar/) | [GitHub](https://github.com/ananyas1999) | [Email](mailto:ananya.achar@utdallas.edu)
 
 ---
 
-## 📈 Highlights
+## 💬 Highlights
 
-- **Business Intelligence**: Expert in **Power BI**, **Tableau**, and **SQL** for crafting interactive dashboards and reports.
-- **Data Science**: Hands-on experience with **Python**, **Machine Learning**, and **Predictive Analytics**.
-- **Automation**: Built **RPA bots** that integrated **Power BI** and **Azure** to automate data workflows.
+- **Business Intelligence**: Built dynamic **Power BI** dashboards and integrated with **Azure** for real-time reporting.
+- **Machine Learning**: Experience in **predictive analytics**, **regression**, and **classification** techniques.
+- **Data Engineering**: Developed and optimized **ETL pipelines** and automated data workflows using **Python** and **AWS Glue**.
 
 ---
 
-**"Transforming Data into Insights"**
-
+"Transforming Data into Actionable Insights"
