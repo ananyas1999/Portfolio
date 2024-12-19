@@ -1,5 +1,4 @@
 # Ananya Srinath Achar  
-<img src="https://via.placeholder.com/150" alt="Ananya's Photo" width="150" height="150" style="border-radius: 50%; float: left; margin-right: 20px;"/>  
 **Data Analyst | Business Intelligence | Data Science Enthusiast**
 
 Welcome to my data analysis portfolio! I'm Ananya, a passionate data enthusiast currently studying **Information Technology and Management** at the **University of Texas at Dallas**. I specialize in transforming data into actionable insights and optimizing business intelligence workflows.
